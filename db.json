@@ -1,0 +1,295 @@
+[{
+        "id": "092C04C4",
+        "category": "laptops",
+        "brand": "HP",
+        "name": "Ноутбук HP 15s-eq0056ur",
+        "cost": 47599,
+        "cost1": 57599,
+        "color": [
+            "Черный",
+            "Черный/Красный"
+        ],
+        "sizes": [
+            "128GB",
+            "256GB",
+            "512GB"
+        ],
+        "photo": "MP002XW060O4_13625731_1_v2.jpg",
+        "preview": "MP002XW060O4_13625731_1_v1.jpg"
+    },
+    {
+        "id": "CD32D6F8",
+        "category": "laptops",
+        "brand": "Lenovo",
+        "name": "Игровой ноутбук Lenovo IdeaPad Gaming 3",
+        "cost": 79499,
+        "sizes": [
+            "256GB",
+            "512GB",
+            "1024GB"
+        ],
+        "photo": "NE007EWMSTP9_14530060_1_v1.jpg",
+        "preview": "NE007EWMSTP9_14530060_1_v2.jpg"
+    },
+    {
+        "id": "1ACC55DD",
+        "category": "laptops",
+        "brand": "Acer",
+        "name": "Ноутбук Acer Extensa 15",
+        "cost": 36199,
+        "sizes": [
+            "256GB",
+            "512GB"
+        ],
+        "photo": "RTLAAG699301_14109017_1_v1.jpg",
+        "preview": "RTLAAG699301_14109017_1_v2.jpg"
+    },
+    {
+        "id": "5846D302",
+        "category": "laptops",
+        "brand": "Asus ",
+        "name": "Ноутбук Asus X512JA-BQ1021",
+        "cost": 27599,
+        "color": [
+            "Мультиколор",
+            "Золотой"
+        ],
+        "sizes": [
+            "256GB",
+            "512GB"
+        ],
+        "photo": "RTLAAH106801_14109125_1_v1.jpg",
+        "preview": "RTLAAH106801_14109125_1_v2.jpg"
+    },
+    {
+        "id": "7B376F15",
+        "category": "laptops",
+        "brand": "Asus",
+        "name": "Игровой ноутбук Asus TUF Gaming F15",
+        "cost": 88900,
+        "color": [
+            "Черный",
+            "Бежевый"
+        ],
+        "sizes": [
+            "512GB",
+            "1024GB"
+        ],
+        "photo": "RTLAAK612301_14538241_1_v1.jpg",
+        "preview": "RTLAAK612301_14538241_1_v2.jpg"
+    },
+    {
+        "id": "B838B70E",
+        "category": "laptops",
+        "brand": "Acer",
+        "name": "Ноутбук Acer Aspire A315-56-394Q",
+        "cost": 17199,
+        "sizes": [
+            "128GB"
+        ],
+        "photo": "MP002XW06UN3_14130289_1_v1.jpg",
+        "preview": "MP002XW06UN3_14130289_1_v2.jpg"
+    },
+
+
+
+    {
+        "id": "5481519A",
+        "category": "laptops",
+        "brand": "HP",
+        "name": "Ноутбук HP Pavilion 15-eg0030ur",
+        "cost": 66399,
+        "color": [
+            "Черный",
+            "Белый",
+            "Хаки",
+            "Фиолетовый"
+        ],
+        "sizes": [
+            "128GB",
+            "256GB",
+            "512GB"
+        ],
+        "photo": "MP002XW06VXS_14089904_1.jpg",
+        "preview": "MP002XW06VXS_14089904_2.jpg"
+    },
+    {
+        "id": "6AC9EAA8",
+        "category": "phones",
+        "brand": "ZTE",
+        "name": "Смартфон ZTE Blade A5 2020",
+        "cost": 7499,
+        "color": [
+            "Бежевый",
+            "Серый",
+            "Белый"
+        ],
+        "sizes": [
+            "8GB",
+            "16GB"
+        ],
+        "photo": "AV012EMIMUG4_11404995_1_v1.jpg",
+        "preview": "AV012EMIMUG4_11404995_1_v2.jpg"
+    },
+    {
+        "id": "55565D60",
+        "category": "phones",
+        "brand": "Ulefone",
+        "name": "Смартфон Ulefone Armor X6",
+        "cost": 8700,
+
+        "sizes": [
+            "8GB",
+            "16GB",
+            "32GB"
+        ],
+        "photo": "MP002XM1HC3S_13703268_1_v1.jpg",
+        "preview": "MP002XM1HC3S_13703268_1_v2.jpg"
+    },
+    {
+        "id": "2E0179D9",
+        "category": "phones",
+        "brand": "Apple",
+        "name": "Смартфон Apple iPhone 12",
+        "cost": 80000,
+        "color": [
+            "Черный",
+            "Белый"
+        ],
+        "sizes": [
+            "64GB",
+            "128GB"
+
+        ],
+        "photo": "RTLAAH915201_14410997_1_v1.jpg",
+        "preview": "RTLAAH915201_14410997_1_v2.jpg"
+    },
+    {
+        "id": "991975D7",
+        "category": "phones",
+        "brand": "Xiaomi",
+        "name": "Смартфон Xiaomi Redmi 9C",
+        "cost": 10785,
+        "sizes": [
+            "8GB",
+            "16GB",
+            "32GB",
+            "64GB"
+
+        ],
+        "photo": "AD002EMLUEA8_14164246_1_v1.jpg",
+        "preview": "AD002EMLUEA8_14164246_1_v2.jpg"
+    },
+    {
+        "id": "631C1DF2",
+        "category": "phones",
+        "brand": "Samsung",
+        "name": "Смартфон Samsung Galaxy A02",
+        "cost": 9999,
+        "color": [
+            "Синий",
+            "Черный",
+            "Серый"
+        ],
+        "sizes": [
+            "8GB",
+            "16GB",
+            "32GB",
+            "64GB"
+        ],
+        "photo": "RTLAAC186501_13613543_1_v1.jpg",
+        "preview": "RTLAAC186501_13613543_1_v2.jpg"
+    },
+    {
+        "id": "525F8249",
+        "category": "phones",
+        "brand": "Huawei",
+        "name": "Смартфон Huawei P40 Lite",
+        "cost": 27999,
+        "color": [
+            "Зеленый",
+            "Черный",
+            "Красный"
+        ],
+        "sizes": [
+            "16GB",
+            "32GB",
+            "64GB"
+        ],
+        "photo": "MP002XM20MOI_10076303_1_v1.jpg",
+        "preview": "MP002XM20MOI_10076303_1_v2.jpg"
+    },
+    {
+        "id": "22A4C94F",
+        "category": "phones",
+        "brand": "Vivo",
+        "name": "Смартфон Vivo Y20",
+        "cost": 17990,
+        "sizes": [
+            "64GB"
+        ],
+        "photo": "RTLAAE350201_13954485_1_v1.jpg",
+        "preview": "RTLAAE350201_13954485_1_v2.jpg"
+    },
+    {
+        "id": "F8B33B52",
+        "category": "phones",
+        "brand": "Tecno",
+        "name": "Смартфон Tecno Pop 4",
+        "cost": 7599,
+        "color": [
+            "Черный",
+            "Красный"
+        ],
+        "sizes": [
+            "32GB"
+        ],
+        "photo": "MP002XM0MT2L_12444872_9_v1.jpg",
+        "preview": "MP002XM0MT2L_12444872_9_v2.jpg"
+    },
+    {
+        "id": "134ED66E",
+        "category": "accessories",
+        "brand": "Logitech ",
+        "name": "Мышь Logitech M170",
+        "cost": 899,
+        "photo": "MP002XG01LJ8_13412039_1_v1.jpg",
+        "preview": "MP002XG01LJ8_13412039_1_v2.jpg"
+    },
+    {
+        "id": "1BDF0DF2",
+        "category": "accessories",
+        "brand": "Logitech ",
+        "name": "Мышь Logitech B100",
+        "cost": 599,
+        "photo": "MP002XG01REQ_14210247_1_v2.jpg",
+        "preview": "MP002XG01REQ_14210247_1_v1.jpg"
+    },
+    {
+        "id": "1044AD26",
+        "category": "accessories",
+        "brand": "Xiaomi ",
+        "name": "Мышь Xiaomi Mi Dual Mode",
+        "cost": 1599,
+        "photo": "MP002XG01K1E_13207928_1_v2.jpg",
+        "preview": "MP002XG01K1E_13207928_1_v1.jpg"
+    },
+    {
+        "id": "16A43C1D",
+        "category": "accessories",
+        "brand": "Logitech",
+        "name": "Клавиатура Logitech K270",
+        "cost": 1899,
+        "photo": "RTLAAE736501_14002734_1_v1.jpg",
+        "preview": "RTLAAE736501_14002734_1_v2.jpg"
+    },
+    {
+        "id": "72E074E5",
+        "category": "accessories",
+        "brand": "Sony",
+        "name": "Геймпад Sony PS5 DualSense",
+        "cost": 29399,
+        "photo": "MP002XG01M3E_13558114_1_v1.jpg",
+        "preview": "MP002XG01M3E_13558114_1_v2.jpg"
+    }
+]
